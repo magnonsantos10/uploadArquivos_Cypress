@@ -25,7 +25,7 @@ npm install cypress-file-upload --save-dev
 
 ![image](https://user-images.githubusercontent.com/91263334/148434530-f77861b4-7a39-4ccf-921a-36e8179ea882.png)
 
-**Observação**: Para adicionar o arquivo para a pastinha de fixtures é só arrastar da pasta de destino para a pata fixtures
+**Observação**: Para adicionar o arquivo para a pastinha de fixtures é só arrastar da pasta de destino para a pasta fixtures
 
 * Configurando `index.js` >> Aqui vamos importar as congurações de plugin para que possamos utiliza-los no código, veja:
 
